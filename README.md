@@ -11,7 +11,7 @@ Projeto NutriDev dicas.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212436071-a314dc31-7153-44d2-9fbe-bc3403d21b4a.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212436071-a314dc31-7153-44d2-9fbe-bc3403d21b4a.jpg" width="700px">
 </p>
 
 <br>
